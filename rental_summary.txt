@@ -1,0 +1,18 @@
+Pravallika_krishna - C003 - Swift - 3 days - Rs.4500
+RETURN - C003 - Late Days: 0 - Late Charge: Rs.0
+
+Varun - C005 - Nexon - 5 days - Rs.7500
+RETURN - C005 - Late Days: 3 - Late Charge: Rs.900
+
+Varun - B002 - MT-15 - 5 days - Rs.3500
+RETURN - B002 - Late Days: 5 - Late Charge: Rs.1500
+
+Varun - C001 - Innova Crysta - 10 days - Rs.15000
+RETURN - C001 - Late Days: 2 - Late Charge: Rs.600
+
+Jay - B004 - Apache RTR - 5 days - Rs.3500
+RETURN - B004 - Late Days: 2 - Late Charge: Rs.600
+
+5678 - Jay - C005 - Nexon - 4 days - Rs.6000
+
+5678 - Jay - C003 - Swift - 5 days - Rs.7500
