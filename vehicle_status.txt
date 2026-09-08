@@ -1,0 +1,10 @@
+C001 - True - 0
+C002 - True - 0
+C003 - False - 5
+C004 - True - 0
+C005 - True - 0
+B001 - True - 0
+B002 - True - 0
+B003 - True - 0
+B004 - True - 0
+B005 - True - 0
