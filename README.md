@@ -92,7 +92,7 @@ Vehicle and customer data and their related methods are organized within classes
 
 text
 
-Vehicle-Rental-Management-System/
+Vehicle-Rental-Management-System
 
 │
 
