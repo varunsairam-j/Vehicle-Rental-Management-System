@@ -70,13 +70,13 @@ Car and Bike classes inherit common properties from the Vehicle class.
 
 ### Method Overriding
 
-Car and Bike classes provide their own implementation of the `rent\_price()` method.
+Car and Bike classes provide their own implementation of the `rent_price()` method.
 
 
 
 ### Polymorphism
 
-The same `rent\_price()` method calculates different rental amounts based on the vehicle type.
+The same `rent_price()` method calculates different rental amounts based on the vehicle type.
 
 
 
@@ -95,17 +95,17 @@ Vehicle-Rental-Management-System
 
 ├── Main.py
 
-├── Vehicle\_Customer.py
+├── Vehicle_Customer.py
 
-├── Vehicle\_Data.py
+├── Vehicle_Data.py
 
 ├── Booking.py
 
-├── Return\_Vehicle.py
+├── Return_Vehicle.py
 
 ├── customers.txt
 
-├── vehicle\_status.txt
+├── vehicle_status.txt
 
-└── rental\_summary.txt
+└── rental_summary.txt
 
