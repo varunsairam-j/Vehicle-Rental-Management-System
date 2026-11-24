@@ -1,8 +1,8 @@
-\# Vehicle Rental Management System
+# Vehicle Rental Management System
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -14,79 +14,79 @@ The project is designed using Object-Oriented Programming concepts and demonstra
 
 
 
-\## Key Features
+## Key Features
 
 
 
-\- Vehicle availability management
+- Vehicle availability management
 
-\- Car and Bike categories
+- Car and Bike categories
 
-\- Customer registration and record storage
+- Customer registration and record storage
 
-\- Vehicle booking
+- Vehicle booking
 
-\- Rental duration and price calculation
+- Rental duration and price calculation
 
-\- Vehicle return processing
+- Vehicle return processing
 
-\- Late return charge calculation
+- Late return charge calculation
 
-\- Rental transaction history
+- Rental transaction history
 
-\- Persistent customer records
+- Persistent customer records
 
-\- Persistent vehicle rental status
+- Persistent vehicle rental status
 
-\- Input validation and exception handling
-
-
-
-\## Technologies Used
+- Input validation and exception handling
 
 
 
-\- Python 3.x
-
-\- Object-Oriented Programming
-
-\- Exception Handling
-
-\- File Handling
-
-\- Modular Programming
+## Technologies Used
 
 
 
-\## OOP Concepts Used
+- Python 3.x
+
+- Object-Oriented Programming
+
+- Exception Handling
+
+- File Handling
+
+- Modular Programming
 
 
 
-\### Inheritance
+## OOP Concepts Used
+
+
+
+### Inheritance
 
 Car and Bike classes inherit common properties from the Vehicle class.
 
 
 
-\### Method Overriding
+### Method Overriding
 
 Car and Bike classes provide their own implementation of the `rent\_price()` method.
 
 
 
-\### Polymorphism
+### Polymorphism
 
 The same `rent\_price()` method calculates different rental amounts based on the vehicle type.
 
 
 
-\### Encapsulation
+### Encapsulation
 
 Vehicle and customer data and their related methods are organized within classes.
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
